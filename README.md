@@ -1,6 +1,4 @@
-# Kuro & Cream
-
-*My first independently developed multi-page website, combining my love for cats and coffee.*
+# Kuro & Cream — *A Multi-Page Cat Café Website*
 
 ## Project Overview
 
